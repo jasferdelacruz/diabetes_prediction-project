@@ -4,7 +4,6 @@
 
 The Diabetes Prediction System is an intelligent web application that leverages machine learning to assess an individual's risk of developing diabetes. Built using Python and Streamlit, this application provides a user-friendly interface for quick and insightful health risk assessment.
 
-![Diabetes Prediction System Screenshot](path_to_your_screenshot.png)
 
 ## 🌟 Key Features
 
